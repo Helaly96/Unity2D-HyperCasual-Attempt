@@ -193,6 +193,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {x: 0, y: 0}
+  Score_text: {fileID: 0}
+  Particles: {fileID: 717177862644387157, guid: c684eef73cbf02242ba88089a7e086fd,
+    type: 3}
 --- !u!50 &500815688828883328
 Rigidbody2D:
   serializedVersion: 4
